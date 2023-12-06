@@ -1,0 +1,1 @@
+main = print $ take 20 [1..]
