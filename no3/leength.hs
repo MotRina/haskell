@@ -1,0 +1,1 @@
+leength xs= if null xs then 0 else leength(tail xs) + 1

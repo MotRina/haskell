@@ -1,0 +1,1 @@
+suum xs= if null xs then 0 else head xs + suum(tail xs)

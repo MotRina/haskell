@@ -1,0 +1,1 @@
+divisible x d = x `mod` d == 0 

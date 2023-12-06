@@ -1,0 +1,1 @@
+head3 xs= head(tail(tail xs))
