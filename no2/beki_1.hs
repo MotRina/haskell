@@ -1,0 +1,1 @@
+beki x y = if y == 0 then 1 else x * beki x(y-1)

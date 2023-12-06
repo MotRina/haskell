@@ -1,0 +1,1 @@
+oor x y = if x then True else y
